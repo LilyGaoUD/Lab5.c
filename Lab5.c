@@ -1,4 +1,4 @@
-#include <studei.h>
+#include <stdio.h>
 
 #define MAX_NUMBER 100
 int main(int argc, char** argv){
